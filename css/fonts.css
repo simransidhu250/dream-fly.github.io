@@ -1,0 +1,41 @@
+/* font-family: Abel */
+@font-face{
+    /* we can provide the customised names over here */
+    font-family: Abel;
+    src:url("../fonts/Abel/Abel-Regular.ttf")
+}
+/* font-family:  Anton */
+@font-face{
+    font-family: Anton;
+    src:url("../fonts/Anton/Anton-Regular.ttf")
+}
+/* font-family:  Josefin_Sans */
+@font-face{
+    font-family: Josefin;
+    src:url("../fonts/Josefin_Sans/JosefinSans-Italic-VariableFont_wght.ttf")
+}
+/* font-family:  Lexend_Deca */
+@font-face{
+    font-family: Lexend;
+    src:url("../fonts/Lexend_Deca/LexendDeca-Regular.ttf")
+}
+/* font-family:  Livvic */
+@font-face{
+    font-family: Livvic;
+    src:url("../fonts/Livvic/Livvic-Regular.ttf")
+}
+/* font-family:  Sansita_Swashed */
+@font-face{
+    font-family: Sansita;
+    src:url("../fonts/Sansita_Swashed/SansitaSwashed-VariableFont_wght.ttf")
+}
+/* font-family:  Lobster */
+@font-face{
+    font-family: Lobster;
+    src:url("../fonts/Lobster/Lobster-Regular.ttf")
+}
+/* font-family:  Permanent_Marker */
+@font-face{
+    font-family: Permanent;
+    src:url("../fonts/Permanent_Marker/PermanentMarker-Regular.ttf")
+}
